@@ -6,7 +6,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![GSSoC](https://img.shields.io/badge/GSSoC-2025-orange)](https://gssoc.girlscript.tech/)
+[![GSSoC](https://img.shields.io/badge/GSSoC-2026-orange)](https://gssoc.girlscript.tech/)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.100%2B-009688.svg)](https://fastapi.tiangolo.com/)
 
@@ -173,7 +173,7 @@ Here is a checklist of features that would be incredibly useful for the communit
 
 - [ ] **WhatsApp Reminder Service**: Send automated daily reminders to solve LeetCode problems using the **Twilio API**.
 - [ ] **Automated Call Alerts**: Trigger automated phone calls using **ElevenLabs** and Twilio if a user hasn't solved their daily problem by a specific time.
-- [ ] **Multi-platform Publishing**: Add support for publishing to Medium, Hashnode, or an existing personal blog/website.
+- [❌] **Multi-platform Publishing**: Add support for publishing to Medium, Hashnode, or an existing personal blog/website.
 - [ ] **Customizable Prompts**: Allow users to configure the prompt used by Gemini so they can customize the tone and style of the generated blog post.
 - [ ] **Support for Other Coding Platforms**: Extend support to platforms like HackerRank, Codeforces, or GeeksforGeeks.
 - [ ] **Dashboard/Stats Page**: Create a simple dashboard to track the number of problems solved, posts published, and consistency streaks.
